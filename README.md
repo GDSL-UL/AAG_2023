@@ -24,3 +24,4 @@ This collection of sessions reflects on emerging challenges for post pandemic ci
 * Agent based simulation
 * 15 minute cities and the functional reconfiguration of cities
 * Geodemographics, Geographic Data Science, and GeoAI for urban environments
+* Microsimulation
